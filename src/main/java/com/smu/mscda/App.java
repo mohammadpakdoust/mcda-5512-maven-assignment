@@ -17,7 +17,7 @@ public class App {
         String input = scanner.nextLine();
 
         String capitalized = StringUtils.capitalize(input);
-        String md5Hex = DigestUtils.md5Hex(input);
+        String md5Hex = DigestUtils.md5Hex(capitalized); // ✅ hash the capitalized string
 
         System.out.println("Capitalized string is: " + capitalized);
         System.out.println("MD5 Hex is: " + md5Hex);
