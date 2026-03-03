@@ -67,11 +67,11 @@ The project uses the Maven Shade Plugin to package an executable fat JAR.
 
 ### Screenshot 1
 
-![Screenshot 1](Screenshots/1.jpg)
+![Screenshot 1](screenshots/1.jpg)
 
 ### Screenshot 2
 
-![Screenshot 2](Screenshots/2.jpg)
+![Screenshot 2](screenshots/2.jpg)
 
 ## Author
 
